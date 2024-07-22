@@ -1,0 +1,5 @@
+Flask
+deepface
+pywin32
+Pillow
+qrcode
