@@ -38,13 +38,13 @@ This project was created by students of the University of Applied Sciences Munic
 
 ### Installation
 
-1.  Clone the repository:    
-    `git clone https://github.com/wiesty/invisible-privilege.git`
-    ` cd invisible-privilege` 
+1.  Clone the repository:   </br> 
+    `git clone https://github.com/wiesty/invisible-privilege.git`</br>
+    ` cd invisible-privilege` </br></br>
     
-2.  Install the dependencies:
+2.  Install the dependencies:</br>
     
-    `pip install -r requirements.txt` 
+    `pip install -r requirements.txt` </br></br>
     
 3.  Ensure the printer is installed and configured:
     
@@ -62,10 +62,10 @@ This project was created by students of the University of Applied Sciences Munic
      </br></br>
      Edit the following layers to your needs:
      </br></br>
-     `videodevin1` - camera to scan the face
-     `joystick1` - to start the process by pressing b1
-     `audioplay1 & audioplay2` - sounds that will be played after the process
-     `arduino` - com port of the connected arduino 
+     `videodevin1` - camera to scan the face </br>
+     `joystick1` - to start the process by pressing b1</br>
+     `audioplay1 & audioplay2` - sounds that will be played after the process</br>
+     `arduino` - com port of the connected arduino </br>
           
     <img src=".github/touchdesigner.png" alt="Readme Banner" width="100%" height="auto">
     </br></br>
