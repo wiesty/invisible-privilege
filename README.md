@@ -5,6 +5,7 @@
 
 This project was created by students of the University of Applied Sciences Munich. The goal is to raise awareness of discrimination through an interactive installation that demonstrates how AI-based discrimination works.
 
+
 ## Components
 
 ### Hardware
