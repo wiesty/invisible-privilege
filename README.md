@@ -1,7 +1,7 @@
 
 <img src=".github/banner.png" alt="Readme Banner" width="100%" height="auto">
 
-## Introduction
+## invisible privilege [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wiesty/MMM-Mensamuc/raw/master/LICENSE) <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg"/>
 
 This project was created by students of the University of Applied Sciences Munich. The goal is to raise awareness of discrimination through an interactive installation that demonstrates how AI-based discrimination works.
 
