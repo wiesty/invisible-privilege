@@ -76,7 +76,7 @@ def print_receipt(attributes):
             for attribute in attributes:
                 y = center_text(hdc, attribute, y, main_font_height)
             
-            y += 40  # Space before QR code
+            y += 40  
             
             # Print QR code
             qr_img_path = 'qrcode.bmp'
